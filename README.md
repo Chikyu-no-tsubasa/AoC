@@ -74,10 +74,8 @@ Depending on the language, you can run each solution as follows:
 
 ## 🧷 License
 This repository is open-sourced under the [MIT License](LICENSE).  
-Feel free to read, use, and modify the code for learning purposes — but please **don’t submit others’ solutions** to AoC as your own. 😉
 
 ---
 
 ## ✨ Author
-**[Your Name or GitHub Username]**  
-💫 _“Code a little every day — and learn a lot by December 25.”_
+**Alessio Terraroli**  
