@@ -72,10 +72,5 @@ Depending on the language, you can run each solution as follows:
 
 ---
 
-## 🧷 License
-This repository is open-sourced under the [MIT License](LICENSE).  
-
----
-
 ## ✨ Author
 **Alessio Terraroli**  
