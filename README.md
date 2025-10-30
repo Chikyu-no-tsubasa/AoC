@@ -1,6 +1,6 @@
-# 🎄 Advent of Code 2024
+# 🎄 Advent of Code
 
-Welcome to my **Advent of Code 2024** solutions!  
+Welcome to my **Advent of Code** solutions!  
 Each day, I’ll be solving the puzzles using different programming languages — exploring new syntax, paradigms, and problem-solving techniques.
 
 ---
