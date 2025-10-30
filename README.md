@@ -26,6 +26,8 @@ You’ll find:
 
 ## 🚀 Progress Tracker
 
+**AoC 2024**
+
 | Day | Part 1 | Part 2 | Language(s) Used | Notes |
 |-----|---------|---------|------------------|--------|
 | 01 | ✅ | ✅ | C# | Absolute difference puzzle |
