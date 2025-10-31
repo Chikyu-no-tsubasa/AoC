@@ -31,7 +31,7 @@ You’ll find:
 | Day | Part 1 | Part 2 | Language(s) Used | Notes |
 |-----|---------|---------|------------------|--------|
 | 01 | ✅ | ✅ | C# | Absolute difference puzzle |
-| 02 | 🔲 | 🔲 | C++ | TBD |
+| 02 | ✅ | 🔲 | C++ | TBD |
 | 03 | 🔲 | 🔲 | Python(?) | - |
 | … |  |  |  |  |
 

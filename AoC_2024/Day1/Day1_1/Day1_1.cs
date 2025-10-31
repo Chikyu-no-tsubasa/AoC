@@ -1,7 +1,7 @@
 /*
 https://adventofcode.com/2024/day/1
 To run it, use the command: dotnet script Day1_1.cs 
- */
+*/
 
 // Lists to store the first and second column values
 List<int> left = new List<int>();
