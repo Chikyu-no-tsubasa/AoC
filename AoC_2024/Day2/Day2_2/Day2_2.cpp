@@ -1,8 +1,8 @@
 /*
 https://adventofcode.com/2024/day/2
 To compile and run:
-g++ Day2_1.cpp -o Day2_1
-./Day2_1
+g++ Day2_2.cpp -o Day2_2
+./Day2_2
 */
 
 #include <iostream>   // for console input/output (cout, cerr)
