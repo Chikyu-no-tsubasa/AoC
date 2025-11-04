@@ -1,8 +1,7 @@
 """
-https://adventofcode.com/2024/day/2
+https://adventofcode.com/2024/day/3
 To compile and run:
-g++ Day3_1.cpp -o Day2_1
-./Day2_1
+python3 Day3_2.py
 """
 
 import re
